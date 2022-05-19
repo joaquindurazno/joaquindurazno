@@ -1,7 +1,7 @@
 -👋 Hola Terrícola
 - 🐳 Ser como ballena pensar como ballena
 - 🔭 Más allá
-- 🪄💡Cariño a Exploradora
+- 🪄💡Cariño a Explora Dora
 - 📫⌚ Escríbeme, no respondo enseguida
 <!---
 joaquindurazno/joaquindurazno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
